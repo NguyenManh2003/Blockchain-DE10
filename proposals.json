@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "tăng lương",
+    "content": "tăng lương chho 1",
+    "created_by": "Nguyễn Văn Mạnh",
+    "end_time": "2025-05-19T09:41:30.141804",
+    "status": "Đã đóng",
+    "agree": [
+      "nguyễn mạnh"
+    ],
+    "disagree": [],
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "2a1a14c96fe38310a052086e3e9ad1204fcd1312d16dc3322274c50392fc8a6a"
+  },
+  {
+    "id": 2,
+    "title": "Tăng Lương",
+    "content": "Tăng lương cho Nguyễn Hoàng Anh",
+    "created_by": "Nguyễn Văn Mạnh",
+    "end_time": "2025-05-19T16:56:23.876892",
+    "status": "Đã đóng",
+    "agree": [
+      "Nguyễn Thị Lan"
+    ],
+    "disagree": [],
+    "prev_hash": "2a1a14c96fe38310a052086e3e9ad1204fcd1312d16dc3322274c50392fc8a6a",
+    "hash": "60762e6687c0e0c458a8af389cf8b400da4fc287f0718d4a259b92d39306ca0b"
+  }
+]

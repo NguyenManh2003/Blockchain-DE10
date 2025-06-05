@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Hệ thống Biểu quyết DAO</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Hệ thống Biểu quyết DAO</h1>
+    <form id="createForm">
+        <input type="text" id="title" placeholder="Tiêu đề" required>
+        <textarea id="content" placeholder="Nội dung" required></textarea>
+        <input type="number" id="minutes" placeholder="Thời gian (phút)" required>
+        <input type="text" id="created_by" placeholder="Người tạo">
+        <button type="submit">Tạo đề xuất</button>
+    </form>
+    <hr>
+    <div id="proposalList"></div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
